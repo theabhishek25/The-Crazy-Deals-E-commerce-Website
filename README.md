@@ -19,12 +19,6 @@
 ### 🔹 The Crazy Deals – E-commerce Website  
 A complete e-commerce site built with HTML, CSS, JS, PHP & MySQL. Features include product listings, user login/registration, cart, and checkout functionality.  
 
-### 🔹 Portfolio Website  
-A responsive personal portfolio built using HTML, CSS & JavaScript to showcase my projects and skills.
-
-### 🔹 College Event Platform  
-An online event registration system designed for campus fests with user-friendly UI.
-
 ### 🔹 Social Media Intern – AQ InfoTech Solution  
 - Managed Instagram content (reels, stories, captions)  
 - Increased brand engagement through trend-aligned campaigns and storytelling  
