@@ -27,7 +27,7 @@ A complete e-commerce site built with HTML, CSS, JS, PHP & MySQL. Features inclu
 
 ## 📫 Let's Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/the-abhishekkumar/)  
-- 📄 [Resume (PDF)](https://github.com/yourusername/yourrepo/blob/main/TheAbhishek.pdf) *(replace link after uploading)*  
+- 📄 [Resume (PDF)](https://github.com/yourusername/yourrepo/blob/main/TheAbhishek.pdf) 
 - 📧 theabhishek245@gmail.com  
 
 ---
